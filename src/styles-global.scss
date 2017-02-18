@@ -1,0 +1,109 @@
+.layer1 {
+  color: #000;
+  display: block;
+  font-family: Helvetica, sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  line-height: 1;
+  height: auto;
+  width: auto;
+
+  :global(.layer2) {
+    color: #000;
+    display: block;
+    font-family: Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 1;
+    height: auto;
+    width: auto;
+
+    :global(.layer3) {
+      color: #000;
+      display: block;
+      font-family: Helvetica, sans-serif;
+      font-size: 50px;
+      font-weight: bold;
+      line-height: 1;
+      height: auto;
+      width: auto;
+
+      :global(.layer4) {
+        color: #000;
+        display: block;
+        font-family: Helvetica, sans-serif;
+        font-size: 50px;
+        font-weight: bold;
+        line-height: 1;
+        height: auto;
+        width: auto;
+
+        :global(.layer5) {
+          color: #000;
+          display: block;
+          font-family: Helvetica, sans-serif;
+          font-size: 50px;
+          font-weight: bold;
+          line-height: 1;
+          height: auto;
+          width: auto;
+
+          :global(.layer6) {
+            color: #000;
+            display: block;
+            font-family: Helvetica, sans-serif;
+            font-size: 50px;
+            font-weight: bold;
+            line-height: 1;
+            height: auto;
+            width: auto;
+
+            :global(.layer7) {
+              color: #000;
+              display: block;
+              font-family: Helvetica, sans-serif;
+              font-size: 50px;
+              font-weight: bold;
+              line-height: 1;
+              height: auto;
+              width: auto;
+
+              :global(.layer8) {
+                color: #000;
+                display: block;
+                font-family: Helvetica, sans-serif;
+                font-size: 50px;
+                font-weight: bold;
+                line-height: 1;
+                height: auto;
+                width: auto;
+
+                :global(.layer9) {
+                  color: #000;
+                  display: block;
+                  font-family: Helvetica, sans-serif;
+                  font-size: 50px;
+                  font-weight: bold;
+                  line-height: 1;
+                  height: auto;
+                  width: auto;
+
+                  :global(.layer10) {
+                    color: #000;
+                    display: block;
+                    font-family: Helvetica, sans-serif;
+                    font-size: 50px;
+                    font-weight: bold;
+                    line-height: 1;
+                    height: auto;
+                    width: auto;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
